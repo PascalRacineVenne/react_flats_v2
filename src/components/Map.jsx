@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
+
 
 class Map extends Component {
   render() {
     return(
       <div>map container section</div>
-    )
+    );
   }
 }
 
